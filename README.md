@@ -1,5 +1,5 @@
 # DRM_remix
-Make your own DRM on Tweaks /Themes /Apps /Addons ! 
+Make your own DRM on Tweaks /Themes /Apps /Addons /Music! 
 
 This Software is designed to help you understand DRM and how it can potentially be made or used.
 There are of course other ways, this is one of them.
